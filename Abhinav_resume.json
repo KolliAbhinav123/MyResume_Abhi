@@ -1,0 +1,57 @@
+{
+	"basics": {
+		"name": "KOLLI ABHINAV",
+		"label": "Student",
+		"picture": "https://drive.google.com/file/d/1TAwwpJ9GYcgIvEJyqqHdDHQRzYgo6j1A/view?usp=drivesdk",
+		"email": "2019KUCP1056@iiitkota.ac.in",
+		"phone": "9390298954",
+		"summary": "I am pursuing my B.Tech from IIIT Kota in Computer Science and Engineering",
+		"location": {
+			"address": "Door No.171,Street No.F60,Meher Colony",
+			"postalCode": "535558",
+			"city": "Bobbili",
+			"countryCode": "India",
+			"region": "Andhra Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Abhinav03Ak",
+				"url": "https://www.twitter.com/Abhinav03Ak"
+			},
+			{
+				"network": "Github",
+				"username": "KolliAbhinav123",
+				"url": "https://www.github.com/KolliAbhinav123/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Kolli Abhinav",
+				"url": "https://www.linkedin.com/in/kolli-abhinav-0630a4206"
+			},
+			{
+				"network": "Instagram",
+				"username": "Abhinav Kolli",
+				"url": "https://www.instagram.com/abhinav03_ak"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-05-08 ",
+		"endDate": "2023-06-01",
+		"gpa": "7.84",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Moderate",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Carroms", "Badminton","Cricket"]
+	}]
+}
